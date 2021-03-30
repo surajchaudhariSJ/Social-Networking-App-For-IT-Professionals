@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb://127.0.0.1:27017/edac?readPreference=primary&appname=MongoDB%20Compass&ssl=false",
+    "jwtSecret": "secrettoken"
+}
